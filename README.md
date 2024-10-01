@@ -1,100 +1,74 @@
-
-
-# Hi there 👋
-
-  
-
-<p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20HARISH&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
-</a>
-</p>  
-
-<p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=Bangalore&fill=black">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
-</a>
+<!-- Header with Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!+I'm+Abdulrahman+Akram;Flutter+Developer+and+Software+Engineer" alt="Typing SVG">
 </p>
 
-## Things I use on a daily basis
+# 👋 Hi there, I'm Abdulrahman Akram!
 
-<p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-</a>
- <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-</a>
+I'm a passionate **Software Engineer** and **Flutter Developer** from Egypt 🇪🇬, with a focus on building beautiful, functional, and scalable mobile applications.
 
+---
 
-<!-- <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a> -->
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-</p>
-
-
-<!-- 
-## My Skills 💻
-
-
+### 🛠️ Skills and Tools:
 
 <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=50&design=candy&fill=ff69b4">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
-</a>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart Badge"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase Badge"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/REST-APIs-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white" alt="REST API Badge"/>
 </p>
--->
 
+---
 
-<!--
-# Coming soon 🚀
+### 📱 Projects:
 
+- **💬 Chat App**: Real-time messaging app using **Flutter** & **Firebase**.
+- **📰 News App**: Get the latest news using **Flutter** and **REST APIs**.
+- **🌦️ Weather App**: Dynamic weather updates using **BLoC** pattern.
+- **🗣️ Language Learning App**: Interactive app to learn new languages using **Flutter**.
 
+[Explore more projects on GitHub](https://github.com/your-username)
+
+---
+
+### 💼 Volunteer Experience:
+
+- **Founder** of Modern Academy ACPC community.
+- **Head of IT & Documentation** at Mring Robotics.
+- **Public Relations** at Al-Azhar VEIE.
+- **Volunteer** at Resala Charity Organization.
+
+---
+
+### 🚀 Always Learning:
+
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-%23FF4088?style=flat-square&logo=adobe-photoshop" alt="UI/UX Design Badge"/>
+  <img src="https://img.shields.io/badge/Clean-Architecture-%23007ACC.svg?style=flat-square&logo=codeigniter" alt="Clean Architecture Badge"/>
+</p>
+
+I'm constantly improving my **UI/UX design** skills and exploring new technologies to enhance my **software engineering** expertise.
+
+---
+
+### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=">
-</a>
+  <a href="https://linkedin.com/in/your-profile" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
--->
 
-# Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
