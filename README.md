@@ -35,22 +35,26 @@ Feel free to explore my projects on [GitHub](https://github.com/Abdoakram512).
 
 ---
 
-### 🌈 Creative Journey:
+### My Development Philosophy
 
-Here’s a glimpse of my coding journey!
+As a software engineer, I believe in writing clean, maintainable code and creating intuitive user interfaces. I follow best practices in software development and am passionate about adopting new technologies that can enhance my skills and improve my projects. 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+### 🎓 Continuous Learning
+
+I'm always exploring new programming languages and frameworks to broaden my skill set. Currently, I am delving deeper into:
+
+- **UI/UX Design**: Understanding the principles of design to create user-friendly applications.
+- **Clean Architecture**: Implementing design patterns that make my applications more scalable and testable.
+- **Cloud Technologies**: Gaining proficiency in cloud platforms like AWS and Azure to enhance app deployment and performance.
 
 ---
 
 ### 💼 Volunteer Experience:
 
-- **Founder** of Modern Academy ACPC community.
-- **Head of IT & Documentation** at Mring Robotics.
-- **Public Relations** at Al-Azhar VEIE.
-- **Volunteer** at Resala Charity Organization.
+- **Founder** of Modern Academy ACPC community, fostering a collaborative environment for aspiring programmers.
+- **Head of IT & Documentation** at Mring Robotics, where I managed technical resources and guided students.
+- **Public Relations** at Al-Azhar VEIE, coordinating the collection and organization of engineering-related data for students.
+- **Volunteer** at Resala Charity Organization, contributing my skills to support community initiatives.
 
 ---
 
@@ -74,22 +78,12 @@ I'm always open to discussions, ideas, and collaborations. Connect with me throu
 
 ### 🌟 Fun Fact:
 
-I love experimenting with new technologies and sharing my knowledge with the community. When I'm not coding, you can find me exploring new cuisines or enjoying a good book!
+I love experimenting with new technologies and sharing my knowledge with the community. When I'm not coding, you can find me exploring new cuisines or enjoying a good book! I also enjoy engaging in coding challenges and hackathons to sharpen my skills and meet other developers.
 
 ---
 
 ### 🎨 Creativity in Motion
 
 <p align="center">
-  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color: #36BCF7; stop-opacity: 1" />
-        <stop offset="100%" style="stop-color: #FF4088; stop-opacity: 1" />
-      </linearGradient>
-    </defs>
-    <circle cx="100" cy="100" r="80" fill="url(#grad1)" />
-    <text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="1px" dy=".3em" font-size="24">Creativity</text>
-    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 100 100" to="360 100 100" dur="10s" repeatCount="indefinite"/>
-  </svg>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
