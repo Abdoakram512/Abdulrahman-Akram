@@ -85,5 +85,5 @@ I love experimenting with new technologies and sharing my knowledge with the com
 ### 🎨 Creativity in Motion
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://github.com/Abdoakram512/Abdulrahman-Akram/blob/addd819f880196937e85ae5aeb6b1222ba144de7/WhatsApp%20Image%202024-09-17%20at%2015.54.11_3a63f30f.jpg" alt="Coder GIF" width="500">
 </p>
