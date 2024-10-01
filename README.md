@@ -90,13 +90,10 @@ I'm always open to discussions, ideas, and collaborations. Don't hesitate to rea
 I love experimenting with new technologies and sharing my knowledge with the community. When I'm not coding, you can find me exploring new cuisines or enjoying a good book!
 
 ---
-
 ### 🎨 Animation Example
 
 Here’s a beautiful animation that you can use as an example in your README. You can customize it as needed:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKVXz4byfsCz8PQ/giphy.gif" width="300" alt="Fun Animation"/>
+  <img src="https://media.giphy.com/media/l2JHRa5G4gG93YffW/giphy.gif" width="300" alt="Fun Animation"/>
 </p>
-
----
