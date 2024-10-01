@@ -1,4 +1,10 @@
 <!-- Header with Animation -->
+
+<p align="center">
+  <img src="https://github.com/Abdoakram512/Abdulrahman-Akram/blob/addd819f880196937e85ae5aeb6b1222ba144de7/WhatsApp%20Image%202024-09-17%20at%2015.54.11_3a63f30f.jpg" alt="Coder GIF" width="500">
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!+I'm+Abdulrahman+Akram;Flutter+Developer+and+Software+Engineer" alt="Typing SVG">
 </p>
@@ -82,8 +88,3 @@ I love experimenting with new technologies and sharing my knowledge with the com
 
 ---
 
-### 🎨 Creativity in Motion
-
-<p align="center">
-  <img src="https://github.com/Abdoakram512/Abdulrahman-Akram/blob/addd819f880196937e85ae5aeb6b1222ba144de7/WhatsApp%20Image%202024-09-17%20at%2015.54.11_3a63f30f.jpg" alt="Coder GIF" width="500">
-</p>
