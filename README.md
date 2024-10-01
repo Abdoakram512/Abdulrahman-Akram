@@ -1,10 +1,4 @@
 <!-- Header with Animation -->
-
-<p align="center">
-  <img src="![WhatsApp Image 2024-09-17 at 15 54 11_9b870b29](https://github.com/user-attachments/assets/edc51144-d1d1-4c70-9858-1683474801b0)
-" alt="Coder GIF" width="500">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!+I'm+Abdulrahman+Akram;Flutter+Developer+and+Software+Engineer" alt="Typing SVG">
 </p>
@@ -12,9 +6,6 @@
 # 👋 Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 I'm **Abdulrahman Akram**, a passionate **Flutter Developer** and **Software Engineer** from Egypt 🇪🇬. I specialize in building beautiful, functional, and scalable mobile applications. I hold a degree in Computer Engineering from the Modern Academy of Engineering and Technology and am always eager to learn and embrace new challenges!
-
-
-
 
 ---
 
@@ -91,5 +82,8 @@ I love experimenting with new technologies and sharing my knowledge with the com
 
 ---
 
+### 🎨 Creativity in Motion
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
