@@ -125,10 +125,10 @@ I'm always open to discussions, ideas, and collaborations. Whether you're lookin
 
 ### 🎨 **Creative Showcase:**
 
-Here’s an animated splash to lighten up the mood and showcase creativity:
+Here’s a fun animation that showcases creativity and adds a splash of excitement to my profile:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l2JHRa5G4gG93YffW/giphy.gif" width="300" alt="Fun Animation"/>
+  <img src="https://media.giphy.com/media/1q10jPQ8i8H5uqgXxU/giphy.gif" width="300" alt="Creative Animation"/>
 </p>
 
 ---
