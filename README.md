@@ -1,16 +1,16 @@
 <!-- Welcome Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=36BCF7&center=true&vCenter=true&width=450&lines=Welcome+to+My+GitHub!;I'm+Abdulrahman+Akram;Flutter+Developer+|+Software+Engineer;Always+Learning+and+Growing" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=5EB9FF&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Abdulrahman+Akram!;Flutter+Developer+%7C+Software+Engineer;Always+Learning+and+Growing" alt="Typing Animation">
 </p>
 
 <!-- Hi there -->
-<h1 align="center">👋 Hi there, I'm Abdulrahman Akram!</h1>
+<h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400"/>
 </p>
 
-<p align="center">I graduated from the Computer Engineering department at Modern Academy of Engineering and Technology.</p>
+<p align="center">I graduated from the Computer Engineering department at Modern Academy of Engineering and Technology, and I'm passionate about building mobile apps and constantly learning new technologies.</p>
 
 ---
 
@@ -56,13 +56,13 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/Abdoakram512" target="blank">
+  <a href="https://linkedin.com/in/Abdoakram512" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:abdoakramsami2020@gmail.com" target="blank">
+  <a href="mailto:abdoakramsami2020@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.facebook.com/Abdoakram512" target="blank">
+  <a href="https://www.facebook.com/Abdoakram512" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-%234267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </p>
