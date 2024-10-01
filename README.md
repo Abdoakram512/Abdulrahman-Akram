@@ -1,4 +1,4 @@
-<!-- Header with Animation -->
+<!-- Header with Animation --> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!+I'm+Abdulrahman+Akram;Flutter+Developer+and+Software+Engineer" alt="Typing SVG">
 </p>
@@ -57,10 +57,10 @@ I'm constantly improving my **UI/UX design** skills and exploring new technologi
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank">
+  <a href="https://www.linkedin.com/mynetwork/catch-up/all/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:abdoakramsami2020@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
