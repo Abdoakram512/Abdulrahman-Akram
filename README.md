@@ -1,7 +1,7 @@
 <!-- Header with Animation -->
 
 <p align="center">
-  <img src="https://github.com/Abdoakram512/Abdulrahman-Akram/blob/addd819f880196937e85ae5aeb6b1222ba144de7/WhatsApp%20Image%202024-09-17%20at%2015.54.11_3a63f30f.jpg" alt="Coder GIF" width="500">
+  <img src="https://github.com/Abdoakram512/Abdulrahman-Akram/blob/4759556419292a97528761bdfc4ada31f085bc54/photo.jpg" alt="Coder GIF" width="500">
 </p>
 
 
