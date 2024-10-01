@@ -1,81 +1,93 @@
-<!-- Welcome Animation -->
+<!-- Header with Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=5EB9FF&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Abdulrahman+Akram!;Flutter+Developer+%7C+Software+Engineer;Always+Learning+and+Growing" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!+I'm+Abdulrahman+Akram;Flutter+Developer+and+Software+Engineer" alt="Typing SVG">
 </p>
 
-<!-- Hi there -->
-<h1 align="center">👋 Welcome to My GitHub!</h1>
+# 👋 Hi there, I'm **Abdulrahman Akram**! 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400"/>
-</p>
+I'm a passionate **Flutter Developer** and **Software Engineer** from Egypt 🇪🇬, dedicated to crafting beautiful, functional, and scalable mobile applications.
 
-<p align="center">I graduated from the Computer Engineering department at Modern Academy of Engineering and Technology, and I'm passionate about building mobile apps and constantly learning new technologies.</p>
+---
+
+## 🚀 About Me
+
+As a Computer Engineering graduate from the Modern Academy of Engineering and Technology, I have a strong foundation in software development. My journey began with a desire to create innovative applications that enhance user experiences. I am deeply interested in UI/UX design and always strive to improve my skills through continuous learning.
 
 ---
 
 ### 🛠️ Skills and Tools:
-<p align="center">
+
+<p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart Badge"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Android-%23039BE5.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/>
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase Badge"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/Kotlin-%7F52B3D.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase Badge"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/REST-APIs-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white" alt="REST API Badge"/>
 </p>
 
 ---
 
 ### 📱 Projects:
-- **💬 Chat App**: Real-time messaging app using **Flutter** & **Firebase**.
+
+- **💬 Chat App**: A real-time messaging application utilizing **Flutter** and **Firebase**.
 - **📰 News App**: Stay updated with the latest news using **Flutter** and **REST APIs**.
-- **🌦️ Weather App**: Dynamic weather updates using **BLoC** pattern.
-- **🗣️ Language Learning App**: Learn new languages interactively using **Flutter**.
+- **🌦️ Weather App**: Provides dynamic weather updates using the **BLoC** pattern.
+- **🗣️ Language Learning App**: An interactive platform for learning new languages built with **Flutter**.
 
 [Explore more projects on GitHub](https://github.com/Abdoakram512)
 
 ---
 
 ### 💼 Volunteer Experience:
-- **Founder** of Modern Academy ACPC community.
+
+- **Founder** of the Modern Academy ACPC community.
 - **Head of IT & Documentation** at Mring Robotics.
 - **Public Relations** at Al-Azhar VEIE.
 - **Volunteer** at Resala Charity Organization.
 
 ---
 
-### 🚀 Always Learning:
-<p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-%23FF4088?style=flat-square&logo=adobe-photoshop" alt="UI/UX Design Badge"/>
-  <img src="https://img.shields.io/badge/Clean-Architecture-%23007ACC.svg?style=flat-square&logo=codeigniter" alt="Clean Architecture Badge"/>
-</p>
+### 🌱 Always Learning:
+
+I'm continuously enhancing my **UI/UX design** skills and exploring new technologies to deepen my **software engineering** expertise.
 
 ---
 
 ### 🌐 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/Abdoakram512" target="_blank">
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:abdoakramsami2020@gmail.com" target="_blank">
+  <a href="mailto:abdoakramsami2020@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.facebook.com/Abdoakram512" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-%234267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.facebook.com/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-%234F8BFF.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🌟 Fun Facts About Me:
+
+- I love experimenting with new technologies and frameworks.
+- In my free time, I enjoy contributing to open-source projects and participating in hackathons.
+- I'm a foodie who loves to explore different cuisines!
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdoakram512&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoakram512&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://profile-counter.glitch.me/Abdoakram512/count.svg" alt="Visitor Count"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdoakram512&color=blue&style=flat-square" alt="Profile Views">
+  <img src="https://github.com/Abdoakram512/your-username/blob/master/assets/creative_animation.gif" alt="Creative Animation" width="70%">
 </p>
+
+---
+
+# Made with 💜 using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
