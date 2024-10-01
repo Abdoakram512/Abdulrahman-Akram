@@ -1,4 +1,9 @@
 <!-- Header with Animation -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!+I'm+Abdulrahman+Akram;Flutter+Developer+and+Software+Engineer" alt="Typing SVG">
 </p>
@@ -7,9 +12,7 @@
 
 I'm **Abdulrahman Akram**, a passionate **Flutter Developer** and **Software Engineer** from Egypt 🇪🇬. I specialize in building beautiful, functional, and scalable mobile applications. I hold a degree in Computer Engineering from the Modern Academy of Engineering and Technology and am always eager to learn and embrace new challenges!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+
 
 
 ---
