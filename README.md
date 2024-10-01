@@ -91,6 +91,12 @@ I love experimenting with new technologies and sharing my knowledge with the com
 
 ---
 
+### 🎨 Animation Example
+
+Here’s a beautiful animation that you can use as an example in your README. You can customize it as needed:
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKVXz4byfsCz8PQ/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKVXz4byfsCz8PQ/giphy.gif" width="300" alt="Fun Animation"/>
 </p>
+
+---
