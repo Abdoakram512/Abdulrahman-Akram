@@ -1,12 +1,14 @@
 <!-- Header with Animation -->
 
-<p align="center">
-  <img src="https://github.com/Abdoakram512/Abdulrahman-Akram/blob/4759556419292a97528761bdfc4ada31f085bc54/photo.jpg" alt="Coder GIF" width="500">
-</p>
+
 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!+I'm+Abdulrahman+Akram;Flutter+Developer+and+Software+Engineer" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Abdoakram512/Abdulrahman-Akram/blob/4759556419292a97528761bdfc4ada31f085bc54/photo.jpg" alt="Coder GIF" width="500">
 </p>
 
 # 👋 Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
