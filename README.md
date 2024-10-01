@@ -125,26 +125,18 @@ I'm always open to discussions, ideas, and collaborations. Whether you're lookin
 
 ### 🎨 **Creative Showcase:**
 
-Here’s a fun animation that showcases creativity and adds a splash of excitement to my profile:
+To illustrate my creative journey in technology, here's a dynamic SVG animation that reflects my passion for coding and design:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1q10jPQ8i8H5uqgXxU/giphy.gif" width="300" alt="Creative Animation"/>
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color: #36BCF7; stop-opacity: 1" />
+        <stop offset="100%" style="stop-color: #FF4088; stop-opacity: 1" />
+      </linearGradient>
+    </defs>
+    <circle cx="100" cy="100" r="80" fill="url(#grad1)" />
+    <text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="1px" dy=".3em" font-size="24">Creativity</text>
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 100 100" to="360 100 100" dur="10s" repeatCount="indefinite"/>
+  </svg>
 </p>
-
----
-
-### 🚀 **Let's Make Magic Together!**
-
-If you have a project idea or just want to brainstorm, let's connect and turn that idea into a reality. I'm just a message away! 🌟
-
----
-
-### 📅 **Upcoming Goals:**
-
-- **Expand my portfolio**: Continue working on innovative projects and showcasing them on GitHub.
-- **Attend tech meetups**: Networking with fellow tech enthusiasts and learning from industry leaders.
-- **Mentorship**: Sharing my knowledge with aspiring developers and guiding them through their journey.
-
----
-
-Thank you for stopping by my GitHub! Let’s create something amazing together! 💻✨
