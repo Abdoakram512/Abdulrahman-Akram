@@ -1,7 +1,8 @@
 <!-- Header with Animation -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="![WhatsApp Image 2024-09-17 at 15 54 11_9b870b29](https://github.com/user-attachments/assets/edc51144-d1d1-4c70-9858-1683474801b0)
+" alt="Coder GIF" width="500">
 </p>
 
 <p align="center">
