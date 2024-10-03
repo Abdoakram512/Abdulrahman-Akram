@@ -1,8 +1,5 @@
 <!-- Header with Animation -->
 
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!+I'm+Abdulrahman+Akram;Flutter+Developer+and+Software+Engineer" alt="Typing SVG">
 </p>
@@ -19,25 +16,45 @@ I'm **Abdulrahman Akram**, a passionate **Flutter Developer** and **Software Eng
 
 ### 🎉 Technologies and Tools I Use:
 
+#### Languages:
+<p align="left">
+  <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
+</p>
+
+#### Frameworks and Tools:
 <p align="left">
   <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
   <a href="https://developer.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 ---
 
 ### 🚀 My Projects:
 
-- **💬 Chat App**: A real-time messaging app using **Flutter** & **Firebase**.
-- **📰 News App**: Get the latest news through **REST APIs**.
-- **🌦️ Weather App**: Dynamic weather updates using the **BLoC** pattern.
-- **🗣️ Language Learning App**: An interactive app for learning new languages.
+#### 1. 💬 Chat App
+A real-time messaging app built with **Flutter** and **Firebase**. 
+- **Key Features**: User authentication, group chats, media sharing.
+- **Demo**: [Link to live demo](#)
+
+#### 2. 📰 News App
+Stay updated with the latest news using **REST APIs**. 
+- **Key Features**: Categories, bookmarking articles, search functionality.
+- **Demo**: [Link to live demo](#)
+
+#### 3. 🌦️ Weather App
+Dynamic weather updates utilizing the **BLoC** pattern. 
+- **Key Features**: Current weather, forecasts, location tracking.
+- **Demo**: [Link to live demo](#)
+
+#### 4. 🗣️ Language Learning App
+An interactive platform for learning new languages. 
+- **Key Features**: Quizzes, audio pronunciation, progress tracking.
+- **Demo**: [Link to live demo](#)
 
 Feel free to explore my projects on [GitHub](https://github.com/Abdoakram512).
 
@@ -45,7 +62,7 @@ Feel free to explore my projects on [GitHub](https://github.com/Abdoakram512).
 
 ### My Development Philosophy
 
-As a software engineer, I believe in writing clean, maintainable code and creating intuitive user interfaces. I follow best practices in software development and am passionate about adopting new technologies that can enhance my skills and improve my projects. 
+As a software engineer, I believe in writing clean, maintainable code and creating intuitive user interfaces. I follow best practices in software development, such as Agile methodologies, and am passionate about adopting new technologies that can enhance my skills and improve my projects. 
 
 ### 🎓 Continuous Learning
 
@@ -81,12 +98,3 @@ I'm always open to discussions, ideas, and collaborations. Connect with me throu
     <img align="center" src="https://img.shields.io/badge/Facebook-%23blue.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </p>
-
----
-
-### 🌟 Fun Fact:
-
-I love experimenting with new technologies and sharing my knowledge with the community. When I'm not coding, you can find me exploring new cuisines or enjoying a good book! I also enjoy engaging in coding challenges and hackathons to sharpen my skills and meet other developers.
-
----
-
