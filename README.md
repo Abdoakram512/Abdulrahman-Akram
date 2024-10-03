@@ -20,6 +20,7 @@ I'm **Abdulrahman Akram**, a passionate **Flutter Developer** and **Software Eng
 <p align="left">
   <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 #### Frameworks and Tools:
@@ -57,6 +58,17 @@ An interactive platform for learning new languages.
 - **Demo**: [Link to live demo](#)
 
 Feel free to explore my projects on [GitHub](https://github.com/Abdoakram512).
+
+---
+
+### 📚 Mobile Development Skills
+
+- **Flutter & Dart**: Proficient in developing cross-platform mobile applications using Flutter and Dart programming language.
+- **Android Development**: Knowledgeable in building native Android applications with Java and Kotlin.
+- **State Management**: Familiar with various state management solutions such as Provider, Riverpod, and BLoC pattern.
+- **RESTful APIs**: Experienced in integrating REST APIs for data fetching and manipulation.
+- **Firebase**: Proficient in using Firebase services for real-time databases, authentication, and cloud functions.
+- **Version Control**: Experienced in using Git for version control and collaborative development.
 
 ---
 
