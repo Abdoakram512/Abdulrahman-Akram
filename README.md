@@ -83,12 +83,23 @@ I'm always exploring new programming languages and frameworks to broaden my skil
 
 ---
 
+### 🌟 Soft Skills
+
+In addition to my technical skills, I possess strong interpersonal abilities that enhance my work as a developer. These include:
+
+- **Team Collaboration**: Thriving in team environments and contributing to collective goals.
+- **Problem Solving**: Approaching challenges with analytical thinking and creativity.
+- **Effective Communication**: Clearly conveying ideas and technical concepts to diverse audiences.
+- **Adaptability**: Quickly adjusting to new technologies and changes in project requirements.
+
+---
+
 ### 💬 Let's Connect!
 
 I'm always open to discussions, ideas, and collaborations. Connect with me through the following links:
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank">
+<p align="center">
+  <a href="https://linkedin.com/in/abdulrahman-akram-94b64b1a8/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:abdoakramsami2020@gmail.com" target="blank">
